@@ -31,3 +31,18 @@ To design a scalable, interactive Excel dashboard that enables users to:
 - Data Cleaning (Date formats, categories)
 - Conditional Formatting
 - Dashboard Design Principles
+
+## 💼 Real-World Relevance
+
+This dashboard replicates how retail or restaurant managers can:
+- Track performance KPIs
+- Plan promotions based on top-selling items
+- Adjust inventory or pricing based on trend analysis
+
+  ## 🚀 How to Use
+
+1. Download or clone the repository
+2. Open the `Pizza_Sales_KPI_Dashboard.xlsx` file in Microsoft Excel
+3. Use the **timeline** to filter by date ranges
+4. Use **slicers** to explore data by category and pizza type
+5. Review the charts and PivotTables to gather insights
